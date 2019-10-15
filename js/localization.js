@@ -31,6 +31,10 @@ localizedStrings = {
         'en-us': 'High Mercury',
         'zh-cn': '真墨丘利',
     },
+    'HMS': {
+        'en-us': 'High Midgardsormr',
+        'zh-cn': '真耶梦加得',
+    },
     'HJP': {
         'en-us': 'High Jupiter',
         'zh-cn': '真朱庇特',
