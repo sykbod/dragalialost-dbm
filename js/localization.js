@@ -34,9 +34,6 @@ localizedStrings = {
     'HJP': {
         'en-us': 'High Jupiter',
         'zh-cn': '真朱庇特',
-    'HMS': {
-        'en-us': 'High Midgardsormr',
-        'zh-cn': '真耶梦加得',       
     },
     'timeline-preview': {
         'en-us': 'Timeline preview',
