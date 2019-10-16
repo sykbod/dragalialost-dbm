@@ -1,22 +1,22 @@
 VERSION, 0.1
 *** Basic Info ***
           ,           EN,   ZH, JP
-      Name, High Midgarsomr (master), 真耶梦加得(高级)
+      Name, High Midgarsomr(master), 真耶梦加得(高级)
 Main color,      #006400
 
 *** Actions ***
 action, Name EN,           color, alert SoundFX, countdown, shortcut,  Name ZH, NAME JP
   boom,        ,     chartreuse1,              ,         0,        0,     核爆,        
-  trident,     ,       burlywood,              ,         5,        1,       三角暴风,        
-  dash,        ,       burlywood,              ,         5,        2,       前冲+大回旋,        
-  jump,        ,          yellow,              ,         3,        3,      后跳,        
-  spit,        ,          yellow,              ,         7,        4,  三口痰,        
-  octwind,     ,          yellow,              ,         5,        5,     全屏风,        
-  spotred,     ,          yellow,              ,         6,        6,     红圈分担,        
- spotred2,     ,           coral,              ,         6,        7, 红圈奶妈吃,       
-  chaser,      , mediumvioletred,              ,         5,        8,     裂空域,        
-  gale,        ,          orange,              ,         7,        9, 疾风弹,        
-  mobs,        ,      darkviolet,              ,         3,        0,     召唤伙伴,              
+  trident,     ,       burlywood,    HMStrident,         3,        1,       三角暴风,        
+  dash,        ,       burlywood,       HMSdash,         3,        2,       前冲+大回旋,        
+  jump,        ,          yellow,       HMSjump,         3,        3,      后跳,        
+  spit,        ,          yellow,       HMSspit,         3,        4,  三口痰,        
+  octwind,     ,          yellow,    HMSoctwind,         3,        5,     全屏风,        
+  spotred,     ,          yellow,    HMSspotred,         3,        6,     红圈分担,        
+ spotred2,     ,           coral,   HMSspotred2,         3,        7, 红圈奶妈吃,       
+  chaser,      , mediumvioletred,     HMSchaser,         3,        8,     裂空域,        
+  gale,        ,          orange,       HMSgale,         3,        9, 疾风弹,        
+  mobs,        ,      darkviolet,       HMSmobs,         0,        0,     召唤伙伴,              
   brke,        ,     yellowgreen,              ,         3,        e, Break 结束,        
 
 *** Timelines ***
