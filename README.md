@@ -1,6 +1,7 @@
 # dragalialost-dbm
-A script based timer for deadly bosses in dragalia lost.
+龙约真龙时间轴文件。
 
+dbm网址：
 https://sykbod.github.io/dragalialost-dbm/
 
 使用方法：点击上面网址，
